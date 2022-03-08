@@ -1,8 +1,4 @@
-/***********************************************************
- *Written by: SHAFIQ YAACOB @ MYBOTIC www.mybotic.com.my
- *DATE      : 27 July 2021
- *Project   : Arduino Face Mask Detector with Temp Sensor  
-************************************************************/
+
 
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>

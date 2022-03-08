@@ -1,9 +1,3 @@
-/*********************************************************************
- * Author   : SHAFIQ YAACOB @ MYBOTIC www.mybotic.com.my
- * Date     : 27 July 2020
- * Project  : Face Mask Detector on ESP32-CAM Board 
- *********************************************************************/
-
 
 #include "esp_camera.h"
 #include <WiFi.h>
